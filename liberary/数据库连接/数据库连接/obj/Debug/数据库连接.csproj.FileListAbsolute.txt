@@ -1,0 +1,4 @@
+C:\Users\xiaoke\Desktop\liberary\数据库连接\数据库连接\bin\Debug\数据库连接.dll
+C:\Users\xiaoke\Desktop\liberary\数据库连接\数据库连接\bin\Debug\数据库连接.pdb
+C:\Users\xiaoke\Desktop\liberary\数据库连接\数据库连接\obj\Debug\数据库连接.dll
+C:\Users\xiaoke\Desktop\liberary\数据库连接\数据库连接\obj\Debug\数据库连接.pdb

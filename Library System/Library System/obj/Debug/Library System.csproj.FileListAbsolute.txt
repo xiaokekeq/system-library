@@ -1,0 +1,17 @@
+C:\Users\xiaoke\Desktop\liberary\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.Cache
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.Admin_System.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.User_System.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.admin_AddBook.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.Updata.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.lend.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library_System.modify_Personal_Information.resources
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\bin\Debug\数据库连接.pdb
+C:\Users\xiaoke\Desktop\LibrarySystem\Library System\Library System\obj\Debug\Library System.csprojResolveAssemblyReference.cache
